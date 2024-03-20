@@ -1,0 +1,6 @@
+if voce tiver >= 10.000
+  print (você vai pra disney!)
+elif voce tiver >= 5.000 
+  print (voce vai para sua terra natal)
+else
+  print (voce vai ficar em casa)
